@@ -1,7 +1,3 @@
-# Blog Application
-
-This is a full-stack blog application built with Node.js, Express, MongoDB for the backend, and React for the frontend.
-
 ## Backend
 
 ### Setup
